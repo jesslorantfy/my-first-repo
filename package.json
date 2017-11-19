@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jesslorantfy/my-first-repo/issues"
   },
-  "homepage": "https://github.com/jesslorantfy/my-first-repo#readme"
+  "homepage": "https://github.com/jesslorantfy/my-first-repo#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
 }
